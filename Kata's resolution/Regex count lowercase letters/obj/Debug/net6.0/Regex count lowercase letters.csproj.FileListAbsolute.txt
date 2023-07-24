@@ -1,0 +1,15 @@
+C:\Users\Rhaissa\source\repos\Kata's resolution\Regex count lowercase letters\bin\Debug\net6.0\Regex count lowercase letters.exe
+C:\Users\Rhaissa\source\repos\Kata's resolution\Regex count lowercase letters\bin\Debug\net6.0\Regex count lowercase letters.deps.json
+C:\Users\Rhaissa\source\repos\Kata's resolution\Regex count lowercase letters\bin\Debug\net6.0\Regex count lowercase letters.runtimeconfig.json
+C:\Users\Rhaissa\source\repos\Kata's resolution\Regex count lowercase letters\bin\Debug\net6.0\Regex count lowercase letters.dll
+C:\Users\Rhaissa\source\repos\Kata's resolution\Regex count lowercase letters\bin\Debug\net6.0\Regex count lowercase letters.pdb
+C:\Users\Rhaissa\source\repos\Kata's resolution\Regex count lowercase letters\obj\Debug\net6.0\Regex count lowercase letters.csproj.AssemblyReference.cache
+C:\Users\Rhaissa\source\repos\Kata's resolution\Regex count lowercase letters\obj\Debug\net6.0\Regex count lowercase letters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rhaissa\source\repos\Kata's resolution\Regex count lowercase letters\obj\Debug\net6.0\Regex count lowercase letters.AssemblyInfoInputs.cache
+C:\Users\Rhaissa\source\repos\Kata's resolution\Regex count lowercase letters\obj\Debug\net6.0\Regex count lowercase letters.AssemblyInfo.cs
+C:\Users\Rhaissa\source\repos\Kata's resolution\Regex count lowercase letters\obj\Debug\net6.0\Regex count lowercase letters.csproj.CoreCompileInputs.cache
+C:\Users\Rhaissa\source\repos\Kata's resolution\Regex count lowercase letters\obj\Debug\net6.0\Regex count lowercase letters.dll
+C:\Users\Rhaissa\source\repos\Kata's resolution\Regex count lowercase letters\obj\Debug\net6.0\refint\Regex count lowercase letters.dll
+C:\Users\Rhaissa\source\repos\Kata's resolution\Regex count lowercase letters\obj\Debug\net6.0\Regex count lowercase letters.pdb
+C:\Users\Rhaissa\source\repos\Kata's resolution\Regex count lowercase letters\obj\Debug\net6.0\Regex count lowercase letters.genruntimeconfig.cache
+C:\Users\Rhaissa\source\repos\Kata's resolution\Regex count lowercase letters\obj\Debug\net6.0\ref\Regex count lowercase letters.dll

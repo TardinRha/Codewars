@@ -1,0 +1,15 @@
+C:\Users\Rhaissa\source\repos\Kata's resolution\Reverse List Order\bin\Debug\net6.0\Reverse List Order.exe
+C:\Users\Rhaissa\source\repos\Kata's resolution\Reverse List Order\bin\Debug\net6.0\Reverse List Order.deps.json
+C:\Users\Rhaissa\source\repos\Kata's resolution\Reverse List Order\bin\Debug\net6.0\Reverse List Order.runtimeconfig.json
+C:\Users\Rhaissa\source\repos\Kata's resolution\Reverse List Order\bin\Debug\net6.0\Reverse List Order.dll
+C:\Users\Rhaissa\source\repos\Kata's resolution\Reverse List Order\bin\Debug\net6.0\Reverse List Order.pdb
+C:\Users\Rhaissa\source\repos\Kata's resolution\Reverse List Order\obj\Debug\net6.0\Reverse List Order.csproj.AssemblyReference.cache
+C:\Users\Rhaissa\source\repos\Kata's resolution\Reverse List Order\obj\Debug\net6.0\Reverse List Order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rhaissa\source\repos\Kata's resolution\Reverse List Order\obj\Debug\net6.0\Reverse List Order.AssemblyInfoInputs.cache
+C:\Users\Rhaissa\source\repos\Kata's resolution\Reverse List Order\obj\Debug\net6.0\Reverse List Order.AssemblyInfo.cs
+C:\Users\Rhaissa\source\repos\Kata's resolution\Reverse List Order\obj\Debug\net6.0\Reverse List Order.csproj.CoreCompileInputs.cache
+C:\Users\Rhaissa\source\repos\Kata's resolution\Reverse List Order\obj\Debug\net6.0\Reverse List Order.dll
+C:\Users\Rhaissa\source\repos\Kata's resolution\Reverse List Order\obj\Debug\net6.0\refint\Reverse List Order.dll
+C:\Users\Rhaissa\source\repos\Kata's resolution\Reverse List Order\obj\Debug\net6.0\Reverse List Order.pdb
+C:\Users\Rhaissa\source\repos\Kata's resolution\Reverse List Order\obj\Debug\net6.0\Reverse List Order.genruntimeconfig.cache
+C:\Users\Rhaissa\source\repos\Kata's resolution\Reverse List Order\obj\Debug\net6.0\ref\Reverse List Order.dll

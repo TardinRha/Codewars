@@ -1,0 +1,15 @@
+C:\Users\Rhaissa\source\repos\Kata's resolution\Growth of a Population\bin\Debug\net6.0\Growth of a Population.exe
+C:\Users\Rhaissa\source\repos\Kata's resolution\Growth of a Population\bin\Debug\net6.0\Growth of a Population.deps.json
+C:\Users\Rhaissa\source\repos\Kata's resolution\Growth of a Population\bin\Debug\net6.0\Growth of a Population.runtimeconfig.json
+C:\Users\Rhaissa\source\repos\Kata's resolution\Growth of a Population\bin\Debug\net6.0\Growth of a Population.dll
+C:\Users\Rhaissa\source\repos\Kata's resolution\Growth of a Population\bin\Debug\net6.0\Growth of a Population.pdb
+C:\Users\Rhaissa\source\repos\Kata's resolution\Growth of a Population\obj\Debug\net6.0\Growth of a Population.csproj.AssemblyReference.cache
+C:\Users\Rhaissa\source\repos\Kata's resolution\Growth of a Population\obj\Debug\net6.0\Growth of a Population.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rhaissa\source\repos\Kata's resolution\Growth of a Population\obj\Debug\net6.0\Growth of a Population.AssemblyInfoInputs.cache
+C:\Users\Rhaissa\source\repos\Kata's resolution\Growth of a Population\obj\Debug\net6.0\Growth of a Population.AssemblyInfo.cs
+C:\Users\Rhaissa\source\repos\Kata's resolution\Growth of a Population\obj\Debug\net6.0\Growth of a Population.csproj.CoreCompileInputs.cache
+C:\Users\Rhaissa\source\repos\Kata's resolution\Growth of a Population\obj\Debug\net6.0\Growth of a Population.dll
+C:\Users\Rhaissa\source\repos\Kata's resolution\Growth of a Population\obj\Debug\net6.0\refint\Growth of a Population.dll
+C:\Users\Rhaissa\source\repos\Kata's resolution\Growth of a Population\obj\Debug\net6.0\Growth of a Population.pdb
+C:\Users\Rhaissa\source\repos\Kata's resolution\Growth of a Population\obj\Debug\net6.0\Growth of a Population.genruntimeconfig.cache
+C:\Users\Rhaissa\source\repos\Kata's resolution\Growth of a Population\obj\Debug\net6.0\ref\Growth of a Population.dll
