@@ -1,0 +1,15 @@
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Bumps in the Road\bin\Debug\net6.0\Bumps in the Road.exe
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Bumps in the Road\bin\Debug\net6.0\Bumps in the Road.deps.json
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Bumps in the Road\bin\Debug\net6.0\Bumps in the Road.runtimeconfig.json
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Bumps in the Road\bin\Debug\net6.0\Bumps in the Road.dll
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Bumps in the Road\bin\Debug\net6.0\Bumps in the Road.pdb
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Bumps in the Road\obj\Debug\net6.0\Bumps in the Road.csproj.AssemblyReference.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Bumps in the Road\obj\Debug\net6.0\Bumps in the Road.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Bumps in the Road\obj\Debug\net6.0\Bumps in the Road.AssemblyInfoInputs.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Bumps in the Road\obj\Debug\net6.0\Bumps in the Road.AssemblyInfo.cs
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Bumps in the Road\obj\Debug\net6.0\Bumps in the Road.csproj.CoreCompileInputs.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Bumps in the Road\obj\Debug\net6.0\Bumps in the Road.dll
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Bumps in the Road\obj\Debug\net6.0\refint\Bumps in the Road.dll
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Bumps in the Road\obj\Debug\net6.0\Bumps in the Road.pdb
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Bumps in the Road\obj\Debug\net6.0\Bumps in the Road.genruntimeconfig.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Bumps in the Road\obj\Debug\net6.0\ref\Bumps in the Road.dll

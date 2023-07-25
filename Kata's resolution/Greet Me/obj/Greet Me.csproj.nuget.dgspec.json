@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rhaissa\\source\\repos\\Kata's resolution\\Greet Me\\Greet Me.csproj": {}
+    "C:\\Users\\Rhaissa\\Desktop\\Codewars\\Kata's resolution\\Greet Me\\Greet Me.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rhaissa\\source\\repos\\Kata's resolution\\Greet Me\\Greet Me.csproj": {
+    "C:\\Users\\Rhaissa\\Desktop\\Codewars\\Kata's resolution\\Greet Me\\Greet Me.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rhaissa\\source\\repos\\Kata's resolution\\Greet Me\\Greet Me.csproj",
+        "projectUniqueName": "C:\\Users\\Rhaissa\\Desktop\\Codewars\\Kata's resolution\\Greet Me\\Greet Me.csproj",
         "projectName": "Greet Me",
-        "projectPath": "C:\\Users\\Rhaissa\\source\\repos\\Kata's resolution\\Greet Me\\Greet Me.csproj",
+        "projectPath": "C:\\Users\\Rhaissa\\Desktop\\Codewars\\Kata's resolution\\Greet Me\\Greet Me.csproj",
         "packagesPath": "C:\\Users\\Rhaissa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rhaissa\\source\\repos\\Kata's resolution\\Greet Me\\obj\\",
+        "outputPath": "C:\\Users\\Rhaissa\\Desktop\\Codewars\\Kata's resolution\\Greet Me\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

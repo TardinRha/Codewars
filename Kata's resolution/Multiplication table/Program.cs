@@ -6,16 +6,13 @@ namespace Multiplication_table
     {
         static void Main(string[] args)
         {
-            Console.Write("Digite o tamanho da tabela de multiplicação: ");
-            int size = int.Parse(Console.ReadLine());
-
-            int[,] multiplicationTable = MultiplicationTable(size);
+            Console.Write("Enter the size of the multiplication table: ");
+            int[,] multiplicationTable = MultiplicationTable(int.Parse(Console.ReadLine()));
 
             Console.WriteLine("Tabela de Multiplicação:");
-
-            for (int i = 0; i < size; i++)
+            for (int i = 0; i < multiplicationTable.Length; i++)
             {
-                for (int j = 0; j < size; j++)
+                for (int j = 0; j < multiplicationTable.Length; j++)
                 {
                     Console.Write("{0,4}", multiplicationTable[i, j]);
                 }
@@ -24,14 +21,14 @@ namespace Multiplication_table
         public static int[,] MultiplicationTable(int size)
         {
             int[,] table = new int[size, size];
-            int v = 1;
+            int multiplier = 1;
             for (int i = 0; i < size; i++)
             {
                 for (int j = 0; j < size; j++)
                 {
-                    table[i, j] = (j + 1) * v;
+                    table[i, j] = (j + 1) * multiplier;
                 }
-                v++;
+                multiplier++;
             }
             return table;
         }

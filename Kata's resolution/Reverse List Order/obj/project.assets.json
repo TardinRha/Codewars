@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rhaissa\\source\\repos\\Kata's resolution\\Reverse List Order\\Reverse List Order.csproj",
+      "projectUniqueName": "C:\\Users\\Rhaissa\\Desktop\\Codewars\\Kata's resolution\\Reverse List Order\\Reverse List Order.csproj",
       "projectName": "Reverse List Order",
-      "projectPath": "C:\\Users\\Rhaissa\\source\\repos\\Kata's resolution\\Reverse List Order\\Reverse List Order.csproj",
+      "projectPath": "C:\\Users\\Rhaissa\\Desktop\\Codewars\\Kata's resolution\\Reverse List Order\\Reverse List Order.csproj",
       "packagesPath": "C:\\Users\\Rhaissa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rhaissa\\source\\repos\\Kata's resolution\\Reverse List Order\\obj\\",
+      "outputPath": "C:\\Users\\Rhaissa\\Desktop\\Codewars\\Kata's resolution\\Reverse List Order\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

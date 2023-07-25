@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rhaissa\\source\\repos\\Kata's resolution\\Growth of a Population\\Growth of a Population.csproj",
+      "projectUniqueName": "C:\\Users\\Rhaissa\\Desktop\\Codewars\\Kata's resolution\\Growth of a Population\\Growth of a Population.csproj",
       "projectName": "Growth of a Population",
-      "projectPath": "C:\\Users\\Rhaissa\\source\\repos\\Kata's resolution\\Growth of a Population\\Growth of a Population.csproj",
+      "projectPath": "C:\\Users\\Rhaissa\\Desktop\\Codewars\\Kata's resolution\\Growth of a Population\\Growth of a Population.csproj",
       "packagesPath": "C:\\Users\\Rhaissa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rhaissa\\source\\repos\\Kata's resolution\\Growth of a Population\\obj\\",
+      "outputPath": "C:\\Users\\Rhaissa\\Desktop\\Codewars\\Kata's resolution\\Growth of a Population\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

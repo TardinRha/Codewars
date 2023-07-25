@@ -6,7 +6,7 @@ namespace Greet_Me
     {
         static void Main(string[] args)
         {
-            Console.Write("Digite o nome para saudar: ");
+            Console.Write("Enter the name to greet: ");
             Console.WriteLine(Kata.Greet(Console.ReadLine()));
         }
     }
@@ -15,13 +15,13 @@ namespace Greet_Me
         public static string Greet(string name)
         {
             name = name.ToLower();
-            string nome = "";
+            string greeting = "";
             for (int i = 0; i < name.Length; i++)
             {
-                if (i == 0) { nome += char.ToUpper(name[i]); }
-                else { nome += name[i]; }
+                if (i == 0) { greeting += char.ToUpper(name[i]); }
+                else { greeting += name[i]; }
             }
-            return $"Hello {nome}!";
+            return $"Hello {greeting}!";
         }
     }
 }

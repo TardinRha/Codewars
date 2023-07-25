@@ -1,0 +1,15 @@
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Sum of numbers from 0 to N\bin\Debug\net6.0\Sum of numbers from 0 to N.exe
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Sum of numbers from 0 to N\bin\Debug\net6.0\Sum of numbers from 0 to N.deps.json
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Sum of numbers from 0 to N\bin\Debug\net6.0\Sum of numbers from 0 to N.runtimeconfig.json
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Sum of numbers from 0 to N\bin\Debug\net6.0\Sum of numbers from 0 to N.dll
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Sum of numbers from 0 to N\bin\Debug\net6.0\Sum of numbers from 0 to N.pdb
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Sum of numbers from 0 to N\obj\Debug\net6.0\Sum of numbers from 0 to N.csproj.AssemblyReference.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Sum of numbers from 0 to N\obj\Debug\net6.0\Sum of numbers from 0 to N.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Sum of numbers from 0 to N\obj\Debug\net6.0\Sum of numbers from 0 to N.AssemblyInfoInputs.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Sum of numbers from 0 to N\obj\Debug\net6.0\Sum of numbers from 0 to N.AssemblyInfo.cs
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Sum of numbers from 0 to N\obj\Debug\net6.0\Sum of numbers from 0 to N.csproj.CoreCompileInputs.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Sum of numbers from 0 to N\obj\Debug\net6.0\Sum of numbers from 0 to N.dll
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Sum of numbers from 0 to N\obj\Debug\net6.0\refint\Sum of numbers from 0 to N.dll
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Sum of numbers from 0 to N\obj\Debug\net6.0\Sum of numbers from 0 to N.pdb
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Sum of numbers from 0 to N\obj\Debug\net6.0\Sum of numbers from 0 to N.genruntimeconfig.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Sum of numbers from 0 to N\obj\Debug\net6.0\ref\Sum of numbers from 0 to N.dll

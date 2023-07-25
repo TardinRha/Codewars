@@ -12,10 +12,7 @@ namespace Growth_of_a_Population
             double percent = 2; // Percentage increase per year
             int aug = 50;       // Number of new inhabitants per year
             int p = 1200;       // Target population
-
-            int yearsNeeded = Arge.NbYear(p0, percent, aug, p);
-
-            Console.WriteLine($"The town needs {yearsNeeded} years to reach a population of {p} inhabitants.");
+            Console.WriteLine($"The town needs {Arge.NbYear(p0, percent, aug, p)} years to reach a population of {p} inhabitants.");
         }
     }
     class Arge

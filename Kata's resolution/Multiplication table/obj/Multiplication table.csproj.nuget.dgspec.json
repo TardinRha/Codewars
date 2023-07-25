@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rhaissa\\source\\repos\\Kata's resolution\\Multiplication table\\Multiplication table.csproj": {}
+    "C:\\Users\\Rhaissa\\Desktop\\Codewars\\Kata's resolution\\Multiplication table\\Multiplication table.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rhaissa\\source\\repos\\Kata's resolution\\Multiplication table\\Multiplication table.csproj": {
+    "C:\\Users\\Rhaissa\\Desktop\\Codewars\\Kata's resolution\\Multiplication table\\Multiplication table.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rhaissa\\source\\repos\\Kata's resolution\\Multiplication table\\Multiplication table.csproj",
+        "projectUniqueName": "C:\\Users\\Rhaissa\\Desktop\\Codewars\\Kata's resolution\\Multiplication table\\Multiplication table.csproj",
         "projectName": "Multiplication table",
-        "projectPath": "C:\\Users\\Rhaissa\\source\\repos\\Kata's resolution\\Multiplication table\\Multiplication table.csproj",
+        "projectPath": "C:\\Users\\Rhaissa\\Desktop\\Codewars\\Kata's resolution\\Multiplication table\\Multiplication table.csproj",
         "packagesPath": "C:\\Users\\Rhaissa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rhaissa\\source\\repos\\Kata's resolution\\Multiplication table\\obj\\",
+        "outputPath": "C:\\Users\\Rhaissa\\Desktop\\Codewars\\Kata's resolution\\Multiplication table\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

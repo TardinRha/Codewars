@@ -1,0 +1,15 @@
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Define a card suit\bin\Debug\net6.0\Define a card suit.exe
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Define a card suit\bin\Debug\net6.0\Define a card suit.deps.json
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Define a card suit\bin\Debug\net6.0\Define a card suit.runtimeconfig.json
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Define a card suit\bin\Debug\net6.0\Define a card suit.dll
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Define a card suit\bin\Debug\net6.0\Define a card suit.pdb
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Define a card suit\obj\Debug\net6.0\Define a card suit.csproj.AssemblyReference.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Define a card suit\obj\Debug\net6.0\Define a card suit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Define a card suit\obj\Debug\net6.0\Define a card suit.AssemblyInfoInputs.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Define a card suit\obj\Debug\net6.0\Define a card suit.AssemblyInfo.cs
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Define a card suit\obj\Debug\net6.0\Define a card suit.csproj.CoreCompileInputs.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Define a card suit\obj\Debug\net6.0\Define a card suit.dll
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Define a card suit\obj\Debug\net6.0\refint\Define a card suit.dll
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Define a card suit\obj\Debug\net6.0\Define a card suit.pdb
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Define a card suit\obj\Debug\net6.0\Define a card suit.genruntimeconfig.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Define a card suit\obj\Debug\net6.0\ref\Define a card suit.dll

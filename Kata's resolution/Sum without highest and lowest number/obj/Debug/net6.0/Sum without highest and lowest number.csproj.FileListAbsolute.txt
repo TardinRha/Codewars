@@ -1,0 +1,15 @@
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Sum without highest and lowest number\bin\Debug\net6.0\Sum without highest and lowest number.exe
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Sum without highest and lowest number\bin\Debug\net6.0\Sum without highest and lowest number.deps.json
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Sum without highest and lowest number\bin\Debug\net6.0\Sum without highest and lowest number.runtimeconfig.json
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Sum without highest and lowest number\bin\Debug\net6.0\Sum without highest and lowest number.dll
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Sum without highest and lowest number\bin\Debug\net6.0\Sum without highest and lowest number.pdb
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Sum without highest and lowest number\obj\Debug\net6.0\Sum without highest and lowest number.csproj.AssemblyReference.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Sum without highest and lowest number\obj\Debug\net6.0\Sum without highest and lowest number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Sum without highest and lowest number\obj\Debug\net6.0\Sum without highest and lowest number.AssemblyInfoInputs.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Sum without highest and lowest number\obj\Debug\net6.0\Sum without highest and lowest number.AssemblyInfo.cs
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Sum without highest and lowest number\obj\Debug\net6.0\Sum without highest and lowest number.csproj.CoreCompileInputs.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Sum without highest and lowest number\obj\Debug\net6.0\Sum without highest and lowest number.dll
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Sum without highest and lowest number\obj\Debug\net6.0\refint\Sum without highest and lowest number.dll
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Sum without highest and lowest number\obj\Debug\net6.0\Sum without highest and lowest number.pdb
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Sum without highest and lowest number\obj\Debug\net6.0\Sum without highest and lowest number.genruntimeconfig.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Sum without highest and lowest number\obj\Debug\net6.0\ref\Sum without highest and lowest number.dll

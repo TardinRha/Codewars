@@ -1,0 +1,15 @@
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\USD - CNY\bin\Debug\net6.0\USD - CNY.exe
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\USD - CNY\bin\Debug\net6.0\USD - CNY.deps.json
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\USD - CNY\bin\Debug\net6.0\USD - CNY.runtimeconfig.json
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\USD - CNY\bin\Debug\net6.0\USD - CNY.dll
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\USD - CNY\bin\Debug\net6.0\USD - CNY.pdb
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\USD - CNY\obj\Debug\net6.0\USD - CNY.csproj.AssemblyReference.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\USD - CNY\obj\Debug\net6.0\USD - CNY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\USD - CNY\obj\Debug\net6.0\USD - CNY.AssemblyInfoInputs.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\USD - CNY\obj\Debug\net6.0\USD - CNY.AssemblyInfo.cs
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\USD - CNY\obj\Debug\net6.0\USD - CNY.csproj.CoreCompileInputs.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\USD - CNY\obj\Debug\net6.0\USD - CNY.dll
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\USD - CNY\obj\Debug\net6.0\refint\USD - CNY.dll
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\USD - CNY\obj\Debug\net6.0\USD - CNY.pdb
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\USD - CNY\obj\Debug\net6.0\USD - CNY.genruntimeconfig.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\USD - CNY\obj\Debug\net6.0\ref\USD - CNY.dll
