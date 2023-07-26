@@ -13,15 +13,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reverse List Order", "Rever
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Regex count lowercase letters", "Regex count lowercase letters\Regex count lowercase letters.csproj", "{3113D7BE-BC3E-45B6-818C-F7F5FA44656C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "USD - CNY", "USD - CNY\USD - CNY.csproj", "{8BD5727B-5F9D-4718-8FD3-28C2C068B9CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "USD - CNY", "USD - CNY\USD - CNY.csproj", "{8BD5727B-5F9D-4718-8FD3-28C2C068B9CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bumps in the Road", "Bumps in the Road\Bumps in the Road.csproj", "{D2625E0A-252F-4CB8-A298-95959A54C52C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bumps in the Road", "Bumps in the Road\Bumps in the Road.csproj", "{D2625E0A-252F-4CB8-A298-95959A54C52C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum without highest and lowest number", "Sum without highest and lowest number\Sum without highest and lowest number.csproj", "{D7C448EB-4CAB-4DE8-8682-0EEA6FC23952}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sum without highest and lowest number", "Sum without highest and lowest number\Sum without highest and lowest number.csproj", "{D7C448EB-4CAB-4DE8-8682-0EEA6FC23952}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Define a card suit", "Define a card suit\Define a card suit.csproj", "{D6D2DE61-4735-4D3A-91AA-C8F01F31E750}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Define a card suit", "Define a card suit\Define a card suit.csproj", "{D6D2DE61-4735-4D3A-91AA-C8F01F31E750}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum of numbers from 0 to N", "Sum of numbers from 0 to N\Sum of numbers from 0 to N.csproj", "{6CC8F714-961D-4EFE-8D5F-C04ECE9BC71F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sum of numbers from 0 to N", "Sum of numbers from 0 to N\Sum of numbers from 0 to N.csproj", "{6CC8F714-961D-4EFE-8D5F-C04ECE9BC71F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormattingDecimalPlaces#0", "FormattingDecimalPlaces#0\FormattingDecimalPlaces#0.csproj", "{3D857C77-59BE-4330-9F2E-DD65CEFA6E81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HowOldWillIBeIn2099", "HowOldWillIBeIn2099\HowOldWillIBeIn2099.csproj", "{2021890D-C782-4759-B39F-EE545156D7A7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +73,14 @@ Global
 		{6CC8F714-961D-4EFE-8D5F-C04ECE9BC71F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6CC8F714-961D-4EFE-8D5F-C04ECE9BC71F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6CC8F714-961D-4EFE-8D5F-C04ECE9BC71F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D857C77-59BE-4330-9F2E-DD65CEFA6E81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D857C77-59BE-4330-9F2E-DD65CEFA6E81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D857C77-59BE-4330-9F2E-DD65CEFA6E81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D857C77-59BE-4330-9F2E-DD65CEFA6E81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2021890D-C782-4759-B39F-EE545156D7A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2021890D-C782-4759-B39F-EE545156D7A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2021890D-C782-4759-B39F-EE545156D7A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2021890D-C782-4759-B39F-EE545156D7A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

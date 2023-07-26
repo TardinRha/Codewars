@@ -1,0 +1,15 @@
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\HowOldWillIBeIn2099\bin\Debug\net6.0\HowOldWillIBeIn2099.exe
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\HowOldWillIBeIn2099\bin\Debug\net6.0\HowOldWillIBeIn2099.deps.json
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\HowOldWillIBeIn2099\bin\Debug\net6.0\HowOldWillIBeIn2099.runtimeconfig.json
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\HowOldWillIBeIn2099\bin\Debug\net6.0\HowOldWillIBeIn2099.dll
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\HowOldWillIBeIn2099\bin\Debug\net6.0\HowOldWillIBeIn2099.pdb
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\HowOldWillIBeIn2099\obj\Debug\net6.0\HowOldWillIBeIn2099.csproj.AssemblyReference.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\HowOldWillIBeIn2099\obj\Debug\net6.0\HowOldWillIBeIn2099.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\HowOldWillIBeIn2099\obj\Debug\net6.0\HowOldWillIBeIn2099.AssemblyInfoInputs.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\HowOldWillIBeIn2099\obj\Debug\net6.0\HowOldWillIBeIn2099.AssemblyInfo.cs
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\HowOldWillIBeIn2099\obj\Debug\net6.0\HowOldWillIBeIn2099.csproj.CoreCompileInputs.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\HowOldWillIBeIn2099\obj\Debug\net6.0\HowOldWillIBeIn2099.dll
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\HowOldWillIBeIn2099\obj\Debug\net6.0\refint\HowOldWillIBeIn2099.dll
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\HowOldWillIBeIn2099\obj\Debug\net6.0\HowOldWillIBeIn2099.pdb
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\HowOldWillIBeIn2099\obj\Debug\net6.0\HowOldWillIBeIn2099.genruntimeconfig.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\HowOldWillIBeIn2099\obj\Debug\net6.0\ref\HowOldWillIBeIn2099.dll

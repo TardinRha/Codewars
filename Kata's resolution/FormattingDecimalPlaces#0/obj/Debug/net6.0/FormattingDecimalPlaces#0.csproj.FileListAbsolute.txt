@@ -1,0 +1,15 @@
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\FormattingDecimalPlaces#0\bin\Debug\net6.0\FormattingDecimalPlaces#0.exe
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\FormattingDecimalPlaces#0\bin\Debug\net6.0\FormattingDecimalPlaces#0.deps.json
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\FormattingDecimalPlaces#0\bin\Debug\net6.0\FormattingDecimalPlaces#0.runtimeconfig.json
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\FormattingDecimalPlaces#0\bin\Debug\net6.0\FormattingDecimalPlaces#0.dll
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\FormattingDecimalPlaces#0\bin\Debug\net6.0\FormattingDecimalPlaces#0.pdb
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\FormattingDecimalPlaces#0\obj\Debug\net6.0\FormattingDecimalPlaces#0.csproj.AssemblyReference.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\FormattingDecimalPlaces#0\obj\Debug\net6.0\FormattingDecimalPlaces#0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\FormattingDecimalPlaces#0\obj\Debug\net6.0\FormattingDecimalPlaces#0.AssemblyInfoInputs.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\FormattingDecimalPlaces#0\obj\Debug\net6.0\FormattingDecimalPlaces#0.AssemblyInfo.cs
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\FormattingDecimalPlaces#0\obj\Debug\net6.0\FormattingDecimalPlaces#0.csproj.CoreCompileInputs.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\FormattingDecimalPlaces#0\obj\Debug\net6.0\FormattingDecimalPlaces#0.dll
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\FormattingDecimalPlaces#0\obj\Debug\net6.0\refint\FormattingDecimalPlaces#0.dll
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\FormattingDecimalPlaces#0\obj\Debug\net6.0\FormattingDecimalPlaces#0.pdb
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\FormattingDecimalPlaces#0\obj\Debug\net6.0\FormattingDecimalPlaces#0.genruntimeconfig.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\FormattingDecimalPlaces#0\obj\Debug\net6.0\ref\FormattingDecimalPlaces#0.dll
