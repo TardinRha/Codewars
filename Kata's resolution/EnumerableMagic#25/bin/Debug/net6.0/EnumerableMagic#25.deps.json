@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EnumerableMagic#25/1.0.0": {
+        "runtime": {
+          "EnumerableMagic#25.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EnumerableMagic#25/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

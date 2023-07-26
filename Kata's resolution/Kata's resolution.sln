@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormattingDecimalPlaces#0",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HowOldWillIBeIn2099", "HowOldWillIBeIn2099\HowOldWillIBeIn2099.csproj", "{2021890D-C782-4759-B39F-EE545156D7A7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumerableMagic#25", "EnumerableMagic#25\EnumerableMagic#25.csproj", "{43885772-F0A8-4A46-9CB5-515D2BD4EB80}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{2021890D-C782-4759-B39F-EE545156D7A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2021890D-C782-4759-B39F-EE545156D7A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2021890D-C782-4759-B39F-EE545156D7A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43885772-F0A8-4A46-9CB5-515D2BD4EB80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43885772-F0A8-4A46-9CB5-515D2BD4EB80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43885772-F0A8-4A46-9CB5-515D2BD4EB80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43885772-F0A8-4A46-9CB5-515D2BD4EB80}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
