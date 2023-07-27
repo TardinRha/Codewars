@@ -1,0 +1,15 @@
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\No oddities here\bin\Debug\net6.0\No oddities here.exe
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\No oddities here\bin\Debug\net6.0\No oddities here.deps.json
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\No oddities here\bin\Debug\net6.0\No oddities here.runtimeconfig.json
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\No oddities here\bin\Debug\net6.0\No oddities here.dll
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\No oddities here\bin\Debug\net6.0\No oddities here.pdb
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\No oddities here\obj\Debug\net6.0\No oddities here.csproj.AssemblyReference.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\No oddities here\obj\Debug\net6.0\No oddities here.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\No oddities here\obj\Debug\net6.0\No oddities here.AssemblyInfoInputs.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\No oddities here\obj\Debug\net6.0\No oddities here.AssemblyInfo.cs
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\No oddities here\obj\Debug\net6.0\No oddities here.csproj.CoreCompileInputs.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\No oddities here\obj\Debug\net6.0\No oddities here.dll
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\No oddities here\obj\Debug\net6.0\refint\No oddities here.dll
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\No oddities here\obj\Debug\net6.0\No oddities here.pdb
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\No oddities here\obj\Debug\net6.0\No oddities here.genruntimeconfig.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\No oddities here\obj\Debug\net6.0\ref\No oddities here.dll
