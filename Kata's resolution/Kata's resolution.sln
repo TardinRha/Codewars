@@ -23,11 +23,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Define a card suit", "Defin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sum of numbers from 0 to N", "Sum of numbers from 0 to N\Sum of numbers from 0 to N.csproj", "{6CC8F714-961D-4EFE-8D5F-C04ECE9BC71F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormattingDecimalPlaces#0", "FormattingDecimalPlaces#0\FormattingDecimalPlaces#0.csproj", "{3D857C77-59BE-4330-9F2E-DD65CEFA6E81}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FormattingDecimalPlaces#0", "FormattingDecimalPlaces#0\FormattingDecimalPlaces#0.csproj", "{3D857C77-59BE-4330-9F2E-DD65CEFA6E81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HowOldWillIBeIn2099", "HowOldWillIBeIn2099\HowOldWillIBeIn2099.csproj", "{2021890D-C782-4759-B39F-EE545156D7A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HowOldWillIBeIn2099", "HowOldWillIBeIn2099\HowOldWillIBeIn2099.csproj", "{2021890D-C782-4759-B39F-EE545156D7A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumerableMagic#25", "EnumerableMagic#25\EnumerableMagic#25.csproj", "{43885772-F0A8-4A46-9CB5-515D2BD4EB80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnumerableMagic#25", "EnumerableMagic#25\EnumerableMagic#25.csproj", "{43885772-F0A8-4A46-9CB5-515D2BD4EB80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeepHydrated!", "KeepHydrated!\KeepHydrated!.csproj", "{27C2B5BA-667E-4198-B342-9C9AA6EE5412}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{43885772-F0A8-4A46-9CB5-515D2BD4EB80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43885772-F0A8-4A46-9CB5-515D2BD4EB80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43885772-F0A8-4A46-9CB5-515D2BD4EB80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27C2B5BA-667E-4198-B342-9C9AA6EE5412}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27C2B5BA-667E-4198-B342-9C9AA6EE5412}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27C2B5BA-667E-4198-B342-9C9AA6EE5412}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27C2B5BA-667E-4198-B342-9C9AA6EE5412}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\KeepHydrated!\bin\Debug\net6.0\KeepHydrated!.exe
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\KeepHydrated!\bin\Debug\net6.0\KeepHydrated!.deps.json
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\KeepHydrated!\bin\Debug\net6.0\KeepHydrated!.runtimeconfig.json
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\KeepHydrated!\bin\Debug\net6.0\KeepHydrated!.dll
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\KeepHydrated!\bin\Debug\net6.0\KeepHydrated!.pdb
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\KeepHydrated!\obj\Debug\net6.0\KeepHydrated!.csproj.AssemblyReference.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\KeepHydrated!\obj\Debug\net6.0\KeepHydrated!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\KeepHydrated!\obj\Debug\net6.0\KeepHydrated!.AssemblyInfoInputs.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\KeepHydrated!\obj\Debug\net6.0\KeepHydrated!.AssemblyInfo.cs
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\KeepHydrated!\obj\Debug\net6.0\KeepHydrated!.csproj.CoreCompileInputs.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\KeepHydrated!\obj\Debug\net6.0\KeepHydrated!.dll
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\KeepHydrated!\obj\Debug\net6.0\refint\KeepHydrated!.dll
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\KeepHydrated!\obj\Debug\net6.0\KeepHydrated!.pdb
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\KeepHydrated!\obj\Debug\net6.0\KeepHydrated!.genruntimeconfig.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\KeepHydrated!\obj\Debug\net6.0\ref\KeepHydrated!.dll
