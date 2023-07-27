@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeepHydrated!", "KeepHydrat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "No oddities here", "No oddities here\No oddities here.csproj", "{2C583517-C2CF-40A0-BCF0-2FD8E8002206}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Predict your age!", "Predict your age!\Predict your age!.csproj", "{AB9044D8-23A4-48AD-9E81-F26073B0F84F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{2C583517-C2CF-40A0-BCF0-2FD8E8002206}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C583517-C2CF-40A0-BCF0-2FD8E8002206}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C583517-C2CF-40A0-BCF0-2FD8E8002206}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB9044D8-23A4-48AD-9E81-F26073B0F84F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB9044D8-23A4-48AD-9E81-F26073B0F84F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB9044D8-23A4-48AD-9E81-F26073B0F84F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB9044D8-23A4-48AD-9E81-F26073B0F84F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

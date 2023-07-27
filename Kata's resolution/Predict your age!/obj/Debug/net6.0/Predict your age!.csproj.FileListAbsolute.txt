@@ -1,0 +1,15 @@
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Predict your age!\bin\Debug\net6.0\Predict your age!.exe
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Predict your age!\bin\Debug\net6.0\Predict your age!.deps.json
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Predict your age!\bin\Debug\net6.0\Predict your age!.runtimeconfig.json
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Predict your age!\bin\Debug\net6.0\Predict your age!.dll
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Predict your age!\bin\Debug\net6.0\Predict your age!.pdb
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Predict your age!\obj\Debug\net6.0\Predict your age!.csproj.AssemblyReference.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Predict your age!\obj\Debug\net6.0\Predict your age!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Predict your age!\obj\Debug\net6.0\Predict your age!.AssemblyInfoInputs.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Predict your age!\obj\Debug\net6.0\Predict your age!.AssemblyInfo.cs
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Predict your age!\obj\Debug\net6.0\Predict your age!.csproj.CoreCompileInputs.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Predict your age!\obj\Debug\net6.0\Predict your age!.dll
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Predict your age!\obj\Debug\net6.0\refint\Predict your age!.dll
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Predict your age!\obj\Debug\net6.0\Predict your age!.pdb
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Predict your age!\obj\Debug\net6.0\Predict your age!.genruntimeconfig.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Predict your age!\obj\Debug\net6.0\ref\Predict your age!.dll
