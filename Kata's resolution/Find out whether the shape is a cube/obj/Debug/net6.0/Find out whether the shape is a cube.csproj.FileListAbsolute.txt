@@ -1,0 +1,15 @@
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Find out whether the shape is a cube\bin\Debug\net6.0\Find out whether the shape is a cube.exe
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Find out whether the shape is a cube\bin\Debug\net6.0\Find out whether the shape is a cube.deps.json
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Find out whether the shape is a cube\bin\Debug\net6.0\Find out whether the shape is a cube.runtimeconfig.json
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Find out whether the shape is a cube\bin\Debug\net6.0\Find out whether the shape is a cube.dll
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Find out whether the shape is a cube\bin\Debug\net6.0\Find out whether the shape is a cube.pdb
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Find out whether the shape is a cube\obj\Debug\net6.0\Find out whether the shape is a cube.csproj.AssemblyReference.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Find out whether the shape is a cube\obj\Debug\net6.0\Find out whether the shape is a cube.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Find out whether the shape is a cube\obj\Debug\net6.0\Find out whether the shape is a cube.AssemblyInfoInputs.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Find out whether the shape is a cube\obj\Debug\net6.0\Find out whether the shape is a cube.AssemblyInfo.cs
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Find out whether the shape is a cube\obj\Debug\net6.0\Find out whether the shape is a cube.csproj.CoreCompileInputs.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Find out whether the shape is a cube\obj\Debug\net6.0\Find out whether the shape is a cube.dll
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Find out whether the shape is a cube\obj\Debug\net6.0\refint\Find out whether the shape is a cube.dll
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Find out whether the shape is a cube\obj\Debug\net6.0\Find out whether the shape is a cube.pdb
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Find out whether the shape is a cube\obj\Debug\net6.0\Find out whether the shape is a cube.genruntimeconfig.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Find out whether the shape is a cube\obj\Debug\net6.0\ref\Find out whether the shape is a cube.dll
