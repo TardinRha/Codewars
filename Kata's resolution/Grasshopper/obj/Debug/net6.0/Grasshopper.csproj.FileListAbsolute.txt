@@ -1,0 +1,15 @@
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Grasshopper\bin\Debug\net6.0\Grasshopper.exe
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Grasshopper\bin\Debug\net6.0\Grasshopper.deps.json
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Grasshopper\bin\Debug\net6.0\Grasshopper.runtimeconfig.json
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Grasshopper\bin\Debug\net6.0\Grasshopper.dll
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Grasshopper\bin\Debug\net6.0\Grasshopper.pdb
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Grasshopper\obj\Debug\net6.0\Grasshopper.csproj.AssemblyReference.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Grasshopper\obj\Debug\net6.0\Grasshopper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Grasshopper\obj\Debug\net6.0\Grasshopper.AssemblyInfoInputs.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Grasshopper\obj\Debug\net6.0\Grasshopper.AssemblyInfo.cs
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Grasshopper\obj\Debug\net6.0\Grasshopper.csproj.CoreCompileInputs.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Grasshopper\obj\Debug\net6.0\Grasshopper.dll
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Grasshopper\obj\Debug\net6.0\refint\Grasshopper.dll
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Grasshopper\obj\Debug\net6.0\Grasshopper.pdb
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Grasshopper\obj\Debug\net6.0\Grasshopper.genruntimeconfig.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Grasshopper\obj\Debug\net6.0\ref\Grasshopper.dll

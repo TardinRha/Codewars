@@ -29,17 +29,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HowOldWillIBeIn2099", "HowO
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnumerableMagic#25", "EnumerableMagic#25\EnumerableMagic#25.csproj", "{43885772-F0A8-4A46-9CB5-515D2BD4EB80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeepHydrated!", "KeepHydrated!\KeepHydrated!.csproj", "{27C2B5BA-667E-4198-B342-9C9AA6EE5412}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KeepHydrated!", "KeepHydrated!\KeepHydrated!.csproj", "{27C2B5BA-667E-4198-B342-9C9AA6EE5412}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "No oddities here", "No oddities here\No oddities here.csproj", "{2C583517-C2CF-40A0-BCF0-2FD8E8002206}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "No oddities here", "No oddities here\No oddities here.csproj", "{2C583517-C2CF-40A0-BCF0-2FD8E8002206}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Predict your age!", "Predict your age!\Predict your age!.csproj", "{AB9044D8-23A4-48AD-9E81-F26073B0F84F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Predict your age!", "Predict your age!\Predict your age!.csproj", "{AB9044D8-23A4-48AD-9E81-F26073B0F84F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find out whether the shape is a cube", "Find out whether the shape is a cube\Find out whether the shape is a cube.csproj", "{A01EF538-680E-47F3-B7B6-679AC1ACA3BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find out whether the shape is a cube", "Find out whether the shape is a cube\Find out whether the shape is a cube.csproj", "{A01EF538-680E-47F3-B7B6-679AC1ACA3BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alphabet war", "Alphabet war\Alphabet war.csproj", "{9EAA1388-16F0-4F62-B722-47AD274C9511}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alphabet war", "Alphabet war\Alphabet war.csproj", "{9EAA1388-16F0-4F62-B722-47AD274C9511}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert a string to an array", "Convert a string to an array\Convert a string to an array.csproj", "{86436C43-8343-4555-BADA-B516AC333784}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convert a string to an array", "Convert a string to an array\Convert a string to an array.csproj", "{86436C43-8343-4555-BADA-B516AC333784}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grasshopper", "Grasshopper\Grasshopper.csproj", "{E400F8FD-383A-425C-9EC9-B1D48943C8BB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +125,10 @@ Global
 		{86436C43-8343-4555-BADA-B516AC333784}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86436C43-8343-4555-BADA-B516AC333784}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86436C43-8343-4555-BADA-B516AC333784}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E400F8FD-383A-425C-9EC9-B1D48943C8BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E400F8FD-383A-425C-9EC9-B1D48943C8BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E400F8FD-383A-425C-9EC9-B1D48943C8BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E400F8FD-383A-425C-9EC9-B1D48943C8BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
