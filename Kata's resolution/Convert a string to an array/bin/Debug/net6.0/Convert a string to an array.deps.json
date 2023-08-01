@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Convert a string to an array/1.0.0": {
+        "runtime": {
+          "Convert a string to an array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Convert a string to an array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

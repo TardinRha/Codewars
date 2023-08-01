@@ -1,0 +1,15 @@
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Convert a string to an array\bin\Debug\net6.0\Convert a string to an array.exe
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Convert a string to an array\bin\Debug\net6.0\Convert a string to an array.deps.json
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Convert a string to an array\bin\Debug\net6.0\Convert a string to an array.runtimeconfig.json
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Convert a string to an array\bin\Debug\net6.0\Convert a string to an array.dll
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Convert a string to an array\bin\Debug\net6.0\Convert a string to an array.pdb
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Convert a string to an array\obj\Debug\net6.0\Convert a string to an array.csproj.AssemblyReference.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Convert a string to an array\obj\Debug\net6.0\Convert a string to an array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Convert a string to an array\obj\Debug\net6.0\Convert a string to an array.AssemblyInfoInputs.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Convert a string to an array\obj\Debug\net6.0\Convert a string to an array.AssemblyInfo.cs
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Convert a string to an array\obj\Debug\net6.0\Convert a string to an array.csproj.CoreCompileInputs.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Convert a string to an array\obj\Debug\net6.0\Convert a string to an array.dll
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Convert a string to an array\obj\Debug\net6.0\refint\Convert a string to an array.dll
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Convert a string to an array\obj\Debug\net6.0\Convert a string to an array.pdb
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Convert a string to an array\obj\Debug\net6.0\Convert a string to an array.genruntimeconfig.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Convert a string to an array\obj\Debug\net6.0\ref\Convert a string to an array.dll
