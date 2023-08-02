@@ -1,0 +1,15 @@
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Exclusive 'or' (xor) Logical Operator\bin\Debug\net6.0\Exclusive 'or' (xor) Logical Operator.exe
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Exclusive 'or' (xor) Logical Operator\bin\Debug\net6.0\Exclusive 'or' (xor) Logical Operator.deps.json
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Exclusive 'or' (xor) Logical Operator\bin\Debug\net6.0\Exclusive 'or' (xor) Logical Operator.runtimeconfig.json
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Exclusive 'or' (xor) Logical Operator\bin\Debug\net6.0\Exclusive 'or' (xor) Logical Operator.dll
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Exclusive 'or' (xor) Logical Operator\bin\Debug\net6.0\Exclusive 'or' (xor) Logical Operator.pdb
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Exclusive 'or' (xor) Logical Operator\obj\Debug\net6.0\Exclusive 'or' (xor) Logical Operator.csproj.AssemblyReference.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Exclusive 'or' (xor) Logical Operator\obj\Debug\net6.0\Exclusive 'or' (xor) Logical Operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Exclusive 'or' (xor) Logical Operator\obj\Debug\net6.0\Exclusive 'or' (xor) Logical Operator.AssemblyInfoInputs.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Exclusive 'or' (xor) Logical Operator\obj\Debug\net6.0\Exclusive 'or' (xor) Logical Operator.AssemblyInfo.cs
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Exclusive 'or' (xor) Logical Operator\obj\Debug\net6.0\Exclusive 'or' (xor) Logical Operator.csproj.CoreCompileInputs.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Exclusive 'or' (xor) Logical Operator\obj\Debug\net6.0\Exclusive 'or' (xor) Logical Operator.dll
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Exclusive 'or' (xor) Logical Operator\obj\Debug\net6.0\refint\Exclusive 'or' (xor) Logical Operator.dll
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Exclusive 'or' (xor) Logical Operator\obj\Debug\net6.0\Exclusive 'or' (xor) Logical Operator.pdb
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Exclusive 'or' (xor) Logical Operator\obj\Debug\net6.0\Exclusive 'or' (xor) Logical Operator.genruntimeconfig.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Exclusive 'or' (xor) Logical Operator\obj\Debug\net6.0\ref\Exclusive 'or' (xor) Logical Operator.dll
