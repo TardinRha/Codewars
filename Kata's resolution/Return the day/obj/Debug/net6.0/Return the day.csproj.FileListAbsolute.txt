@@ -1,0 +1,15 @@
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Return the day\bin\Debug\net6.0\Return the day.exe
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Return the day\bin\Debug\net6.0\Return the day.deps.json
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Return the day\bin\Debug\net6.0\Return the day.runtimeconfig.json
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Return the day\bin\Debug\net6.0\Return the day.dll
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Return the day\bin\Debug\net6.0\Return the day.pdb
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Return the day\obj\Debug\net6.0\Return the day.csproj.AssemblyReference.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Return the day\obj\Debug\net6.0\Return the day.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Return the day\obj\Debug\net6.0\Return the day.AssemblyInfoInputs.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Return the day\obj\Debug\net6.0\Return the day.AssemblyInfo.cs
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Return the day\obj\Debug\net6.0\Return the day.csproj.CoreCompileInputs.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Return the day\obj\Debug\net6.0\Return the day.dll
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Return the day\obj\Debug\net6.0\refint\Return the day.dll
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Return the day\obj\Debug\net6.0\Return the day.pdb
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Return the day\obj\Debug\net6.0\Return the day.genruntimeconfig.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Return the day\obj\Debug\net6.0\ref\Return the day.dll
