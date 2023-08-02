@@ -1,0 +1,15 @@
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Summing a number's digits\bin\Debug\net6.0\Summing a number's digits.exe
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Summing a number's digits\bin\Debug\net6.0\Summing a number's digits.deps.json
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Summing a number's digits\bin\Debug\net6.0\Summing a number's digits.runtimeconfig.json
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Summing a number's digits\bin\Debug\net6.0\Summing a number's digits.dll
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Summing a number's digits\bin\Debug\net6.0\Summing a number's digits.pdb
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Summing a number's digits\obj\Debug\net6.0\Summing a number's digits.csproj.AssemblyReference.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Summing a number's digits\obj\Debug\net6.0\Summing a number's digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Summing a number's digits\obj\Debug\net6.0\Summing a number's digits.AssemblyInfoInputs.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Summing a number's digits\obj\Debug\net6.0\Summing a number's digits.AssemblyInfo.cs
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Summing a number's digits\obj\Debug\net6.0\Summing a number's digits.csproj.CoreCompileInputs.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Summing a number's digits\obj\Debug\net6.0\Summing a number's digits.dll
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Summing a number's digits\obj\Debug\net6.0\refint\Summing a number's digits.dll
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Summing a number's digits\obj\Debug\net6.0\Summing a number's digits.pdb
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Summing a number's digits\obj\Debug\net6.0\Summing a number's digits.genruntimeconfig.cache
+C:\Users\Rhaissa\Desktop\Codewars\Kata's resolution\Summing a number's digits\obj\Debug\net6.0\ref\Summing a number's digits.dll
