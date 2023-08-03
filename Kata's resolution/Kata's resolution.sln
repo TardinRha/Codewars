@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L1 Bartender, drinks!", "L1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Welcome!", "Welcome!\Welcome!.csproj", "{CF9D3A70-3C1C-47F1-A310-DBFEDE9F677B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Function 2 - squaring an argument", "Function 2 - squaring an argument\Function 2 - squaring an argument.csproj", "{5771091D-35F8-422D-97BD-E0FDF7176943}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{CF9D3A70-3C1C-47F1-A310-DBFEDE9F677B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF9D3A70-3C1C-47F1-A310-DBFEDE9F677B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF9D3A70-3C1C-47F1-A310-DBFEDE9F677B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5771091D-35F8-422D-97BD-E0FDF7176943}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5771091D-35F8-422D-97BD-E0FDF7176943}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5771091D-35F8-422D-97BD-E0FDF7176943}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5771091D-35F8-422D-97BD-E0FDF7176943}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
