@@ -43,13 +43,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convert a string to an arra
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Grasshopper", "Grasshopper\Grasshopper.csproj", "{E400F8FD-383A-425C-9EC9-B1D48943C8BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exclusive 'or' (xor) Logical Operator", "Exclusive 'or' (xor) Logical Operator\Exclusive 'or' (xor) Logical Operator.csproj", "{96316643-5180-410A-8513-5E52F6D2A3CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exclusive 'or' (xor) Logical Operator", "Exclusive 'or' (xor) Logical Operator\Exclusive 'or' (xor) Logical Operator.csproj", "{96316643-5180-410A-8513-5E52F6D2A3CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Return the day", "Return the day\Return the day.csproj", "{E66484A3-015B-455F-8EFE-2932F98AF977}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Return the day", "Return the day\Return the day.csproj", "{E66484A3-015B-455F-8EFE-2932F98AF977}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Summing a number's digits", "Summing a number's digits\Summing a number's digits.csproj", "{1FE7755B-2858-48C2-BCA5-53DE12CAB8D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Summing a number's digits", "Summing a number's digits\Summing a number's digits.csproj", "{1FE7755B-2858-48C2-BCA5-53DE12CAB8D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String cleaning", "String cleaning\String cleaning.csproj", "{95989EE5-3779-4EEC-9956-9E00616E80F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "String cleaning", "String cleaning\String cleaning.csproj", "{95989EE5-3779-4EEC-9956-9E00616E80F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L1 Bartender, drinks!", "L1 Bartender, drinks!\L1 Bartender, drinks!.csproj", "{FD937344-62DD-43EF-8507-91161A44971C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +155,10 @@ Global
 		{95989EE5-3779-4EEC-9956-9E00616E80F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95989EE5-3779-4EEC-9956-9E00616E80F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95989EE5-3779-4EEC-9956-9E00616E80F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD937344-62DD-43EF-8507-91161A44971C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD937344-62DD-43EF-8507-91161A44971C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD937344-62DD-43EF-8507-91161A44971C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD937344-62DD-43EF-8507-91161A44971C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
